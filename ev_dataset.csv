@@ -1,0 +1,237 @@
+Year,Manufacturer,Model,Category,Battery_Type,Battery_Capacity_kWh,Range_km,Price_USD,Annual_Sales,Customer_Rating,Manufacturing_Country
+2021,Tesla,Tesla Hatchback 2,Hatchback,LFP,41.9,329,31939,6755,4.0,USA
+2021,Tesla,Tesla Bus 9,Bus,LFP,179.8,236,174686,5296,4.7,USA
+2021,Tesla,Tesla Truck 4,Truck,LFP,163.4,376,148448,2540,3.5,USA
+2021,Tesla,Tesla Two-Wheeler 9,Two-Wheeler,NMC,6.8,113,5255,17868,3.8,USA
+2021,BYD,BYD Hatchback 2,Hatchback,Sodium-Ion,44.0,241,23310,19226,3.5,China
+2021,BYD,BYD Bus 4,Bus,NMC,204.7,276,227835,12430,3.5,China
+2021,BYD,BYD Truck 5,Truck,NMC,136.7,361,147417,12752,4.4,China
+2021,BYD,BYD Two-Wheeler 6,Two-Wheeler,NCA,3.4,107,1609,164711,4.3,China
+2021,Hyundai,Hyundai Hatchback 8,Hatchback,LFP,47.5,261,23696,47291,4.2,South Korea
+2021,Hyundai,Hyundai Sedan 3,Sedan,NMC,75.4,480,36329,6146,3.6,South Korea
+2021,Hyundai,Hyundai SUV 7,SUV,NCA,81.1,520,49781,28949,4.2,South Korea
+2021,Hyundai,Hyundai Bus 5,Bus,NMC,167.2,271,152235,5565,3.6,South Korea
+2021,Hyundai,Hyundai Two-Wheeler 9,Two-Wheeler,NMC,7.8,172,5887,56526,4.4,South Korea
+2021,Volkswagen,Volkswagen Hatchback 9,Hatchback,LFP,54.1,393,35686,31498,3.6,Germany
+2021,Volkswagen,Volkswagen Sedan 4,Sedan,Solid-State,83.2,581,65015,9537,4.1,Germany
+2021,Volkswagen,Volkswagen Bus 9,Bus,NCA,169.3,203,171924,11076,4.8,Germany
+2021,Volkswagen,Volkswagen Truck 7,Truck,NCA,203.5,407,220580,10138,4.2,Germany
+2021,Tata Motors,Tata Motors Sedan 2,Sedan,NMC,63.1,498,29695,7931,3.4,India
+2021,Tata Motors,Tata Motors SUV 9,SUV,NMC,73.9,399,57452,62702,4.1,India
+2021,Tata Motors,Tata Motors Bus 7,Bus,NCA,178.6,228,169709,15603,3.5,India
+2021,Tata Motors,Tata Motors Truck 2,Truck,NMC,109.1,241,90173,10369,4.0,India
+2021,Tata Motors,Tata Motors Two-Wheeler 9,Two-Wheeler,LFP,7.5,115,5087,99143,3.4,India
+2021,Nissan,Nissan Sedan 7,Sedan,LFP,69.2,555,35128,2189,4.0,Japan
+2021,Nissan,Nissan SUV 9,SUV,NCA,74.3,521,46091,22453,3.7,Japan
+2021,Nissan,Nissan Truck 8,Truck,LFP,147.0,299,176036,3963,4.8,Japan
+2021,Kia,Kia Sedan 4,Sedan,NMC,63.2,470,29319,9214,4.4,South Korea
+2021,Kia,Kia SUV 6,SUV,LFP,73.0,422,42962,73330,3.8,South Korea
+2021,Kia,Kia Bus 2,Bus,NCA,160.9,189,135054,5067,4.8,South Korea
+2021,Kia,Kia Truck 9,Truck,Sodium-Ion,155.4,333,165119,22219,4.4,South Korea
+2021,BMW,BMW Hatchback 3,Hatchback,LFP,51.6,287,39288,47132,3.6,Germany
+2021,BMW,BMW Sedan 5,Sedan,LFP,67.0,463,36039,81917,3.5,Germany
+2021,BMW,BMW SUV 3,SUV,NCA,62.2,489,33693,80673,4.2,Germany
+2021,BMW,BMW Bus 3,Bus,LFP,161.3,243,191523,10652,3.6,Germany
+2021,BMW,BMW Two-Wheeler 6,Two-Wheeler,Sodium-Ion,6.8,119,3654,22091,4.6,Germany
+2021,NIO,NIO Hatchback 4,Hatchback,NMC,50.5,377,39979,51343,4.7,China
+2021,NIO,NIO SUV 4,SUV,LFP,106.5,479,77274,13814,4.7,China
+2021,NIO,NIO Bus 5,Bus,LFP,272.5,320,329164,4323,4.4,China
+2021,NIO,NIO Truck 6,Truck,LFP,110.4,293,104198,22085,4.2,China
+2021,NIO,NIO Two-Wheeler 5,Two-Wheeler,LFP,7.8,112,5139,64840,4.6,China
+2021,Ola Electric,Ola Electric Hatchback 4,Hatchback,Solid-State,37.9,260,26457,1504,4.8,India
+2021,Ola Electric,Ola Electric Sedan 6,Sedan,NMC,81.0,472,63351,83027,4.3,India
+2021,Ola Electric,Ola Electric SUV 7,SUV,LFP,105.0,493,72872,60945,3.7,India
+2021,Ola Electric,Ola Electric Bus 5,Bus,LFP,262.2,263,311202,5748,3.7,India
+2021,Ola Electric,Ola Electric Truck 4,Truck,NMC,148.3,301,172694,21616,4.5,India
+2021,Ola Electric,Ola Electric Two-Wheeler 2,Two-Wheeler,LFP,6.0,153,4277,122412,3.7,India
+2022,Tesla,Tesla Bus 4,Bus,NCA,160.9,262,150446,8947,3.6,USA
+2022,Tesla,Tesla Truck 7,Truck,Sodium-Ion,229.1,296,268116,20890,4.1,USA
+2022,Tesla,Tesla Two-Wheeler 8,Two-Wheeler,Sodium-Ion,2.7,113,2149,123306,4.8,USA
+2022,BYD,BYD Hatchback 9,Hatchback,NMC,53.0,317,26802,66788,4.1,China
+2022,BYD,BYD Sedan 8,Sedan,NCA,64.7,484,35333,11414,3.8,China
+2022,BYD,BYD SUV 4,SUV,LFP,87.0,479,43803,28357,4.0,China
+2022,BYD,BYD Bus 7,Bus,NMC,159.3,282,166801,16537,4.7,China
+2022,BYD,BYD Truck 7,Truck,NMC,100.9,312,126521,11544,4.5,China
+2022,BYD,BYD Two-Wheeler 7,Two-Wheeler,NMC,3.3,110,1934,140571,4.6,China
+2022,Hyundai,Hyundai Hatchback 9,Hatchback,NCA,58.0,259,34099,48650,3.4,South Korea
+2022,Hyundai,Hyundai Sedan 7,Sedan,LFP,71.2,431,43371,35268,4.7,South Korea
+2022,Hyundai,Hyundai SUV 8,SUV,Solid-State,81.1,383,51806,141329,3.9,South Korea
+2022,Hyundai,Hyundai Bus 4,Bus,NCA,247.8,232,181244,3971,3.6,South Korea
+2022,Hyundai,Hyundai Truck 6,Truck,NMC,132.7,244,140670,21614,3.6,South Korea
+2022,Hyundai,Hyundai Two-Wheeler 5,Two-Wheeler,Solid-State,2.6,107,1996,77509,4.8,South Korea
+2022,Volkswagen,Volkswagen Sedan 5,Sedan,NCA,63.5,530,41919,16123,4.9,Germany
+2022,Volkswagen,Volkswagen SUV 9,SUV,LFP,81.4,532,36990,55765,4.1,Germany
+2022,Volkswagen,Volkswagen Bus 3,Bus,LFP,283.7,273,320844,21130,3.8,Germany
+2022,Volkswagen,Volkswagen Truck 5,Truck,NMC,172.5,287,147915,25461,3.8,Germany
+2022,Volkswagen,Volkswagen Two-Wheeler 6,Two-Wheeler,NCA,5.4,100,4038,45618,3.7,Germany
+2022,Tata Motors,Tata Motors Hatchback 5,Hatchback,LFP,57.0,342,35957,16794,3.8,India
+2022,Tata Motors,Tata Motors Sedan 8,Sedan,NMC,63.4,443,28913,34001,4.0,India
+2022,Tata Motors,Tata Motors Bus 9,Bus,LFP,233.0,244,259469,6129,3.8,India
+2022,Nissan,Nissan Sedan 8,Sedan,NCA,61.5,402,40366,79515,4.3,Japan
+2022,Nissan,Nissan SUV 5,SUV,NCA,74.8,373,47644,37333,4.9,Japan
+2022,Nissan,Nissan Bus 8,Bus,NMC,168.9,195,122768,7118,4.1,Japan
+2022,Nissan,Nissan Truck 2,Truck,Solid-State,137.9,338,130232,2801,4.3,Japan
+2022,Kia,Kia Sedan 7,Sedan,LFP,89.8,529,65263,24693,4.2,South Korea
+2022,Kia,Kia SUV 5,SUV,NMC,103.0,551,48521,139854,3.5,South Korea
+2022,Kia,Kia Bus 4,Bus,NMC,189.7,211,144558,500,4.1,South Korea
+2022,Kia,Kia Truck 8,Truck,LFP,134.7,232,114592,8069,4.6,South Korea
+2022,Kia,Kia Two-Wheeler 4,Two-Wheeler,NCA,3.2,118,2457,168725,3.5,South Korea
+2022,BMW,BMW Sedan 2,Sedan,NCA,74.9,470,41677,43862,3.8,Germany
+2022,BMW,BMW SUV 6,SUV,NMC,89.9,538,41269,35140,4.4,Germany
+2022,BMW,BMW Bus 5,Bus,NMC,153.1,242,175658,4497,4.2,Germany
+2022,BMW,BMW Truck 8,Truck,LFP,249.5,429,245310,11465,3.9,Germany
+2022,NIO,NIO Sedan 9,Sedan,NMC,78.2,377,37600,29056,3.6,China
+2022,NIO,NIO SUV 9,SUV,Sodium-Ion,101.2,521,47460,62878,4.3,China
+2022,NIO,NIO Bus 3,Bus,NMC,157.7,284,152235,14805,3.6,China
+2022,NIO,NIO Truck 9,Truck,NMC,135.9,224,128898,6203,4.7,China
+2022,Ola Electric,Ola Electric Hatchback 5,Hatchback,NMC,38.8,298,21173,70416,4.9,India
+2022,Ola Electric,Ola Electric SUV 3,SUV,NMC,106.1,632,58003,105312,4.0,India
+2022,Ola Electric,Ola Electric Bus 5,Bus,NMC,273.1,323,285323,14066,4.7,India
+2022,Ola Electric,Ola Electric Truck 7,Truck,NMC,149.9,294,134939,6002,4.4,India
+2022,Ola Electric,Ola Electric Two-Wheeler 8,Two-Wheeler,LFP,6.7,151,4918,79929,4.4,India
+2023,Tesla,Tesla Hatchback 9,Hatchback,Solid-State,47.4,385,26838,9239,4.7,USA
+2023,Tesla,Tesla SUV 3,SUV,LFP,67.2,375,48621,49695,4.3,USA
+2023,Tesla,Tesla Bus 9,Bus,LFP,199.3,239,178838,20059,4.5,USA
+2023,Tesla,Tesla Truck 5,Truck,LFP,110.3,339,125542,15227,3.5,USA
+2023,Tesla,Tesla Two-Wheeler 1,Two-Wheeler,Sodium-Ion,4.7,97,3425,86063,4.0,USA
+2023,BYD,BYD Sedan 2,Sedan,NMC,82.7,517,48288,79818,4.1,China
+2023,BYD,BYD SUV 1,SUV,LFP,91.9,614,56320,46859,4.2,China
+2023,BYD,BYD Truck 5,Truck,Solid-State,144.9,292,128843,37799,4.7,China
+2023,Hyundai,Hyundai Hatchback 1,Hatchback,LFP,42.4,374,28848,28370,4.2,South Korea
+2023,Hyundai,Hyundai Sedan 8,Sedan,NCA,56.7,508,43434,105622,3.7,South Korea
+2023,Hyundai,Hyundai SUV 3,SUV,LFP,69.5,503,53250,93638,3.9,South Korea
+2023,Hyundai,Hyundai Bus 5,Bus,NMC,259.9,251,247602,4898,4.6,South Korea
+2023,Hyundai,Hyundai Truck 3,Truck,LFP,175.3,279,207174,14833,4.6,South Korea
+2023,Hyundai,Hyundai Two-Wheeler 3,Two-Wheeler,LFP,2.7,117,1428,206873,4.4,South Korea
+2023,Volkswagen,Volkswagen Hatchback 7,Hatchback,NCA,48.9,244,31188,36625,4.4,Germany
+2023,Volkswagen,Volkswagen Sedan 2,Sedan,NMC,83.8,535,51538,94396,4.8,Germany
+2023,Volkswagen,Volkswagen SUV 8,SUV,NMC,92.4,618,51353,69079,3.6,Germany
+2023,Volkswagen,Volkswagen Bus 9,Bus,LFP,223.9,217,218088,15233,4.5,Germany
+2023,Volkswagen,Volkswagen Truck 7,Truck,NMC,211.3,358,250785,17938,4.8,Germany
+2023,Volkswagen,Volkswagen Two-Wheeler 4,Two-Wheeler,NMC,3.3,130,1600,177337,4.2,Germany
+2023,Tata Motors,Tata Motors Hatchback 2,Hatchback,LFP,45.0,376,33231,9125,3.7,India
+2023,Tata Motors,Tata Motors Sedan 3,Sedan,Solid-State,56.8,499,29639,102539,4.2,India
+2023,Tata Motors,Tata Motors SUV 1,SUV,NCA,71.6,428,56880,169325,4.2,India
+2023,Tata Motors,Tata Motors Bus 6,Bus,LFP,280.0,319,238908,7719,3.7,India
+2023,Tata Motors,Tata Motors Two-Wheeler 6,Two-Wheeler,NMC,6.5,137,3173,133278,4.8,India
+2023,Nissan,Nissan Sedan 1,Sedan,Sodium-Ion,73.3,375,45273,53362,4.4,Japan
+2023,Nissan,Nissan SUV 3,SUV,Sodium-Ion,63.7,367,34796,85900,4.2,Japan
+2023,Nissan,Nissan Bus 7,Bus,Solid-State,229.6,214,255544,21986,4.4,Japan
+2023,Nissan,Nissan Truck 4,Truck,NCA,132.3,278,156558,13219,4.5,Japan
+2023,Nissan,Nissan Two-Wheeler 8,Two-Wheeler,LFP,3.5,90,2594,34220,3.5,Japan
+2023,Kia,Kia Hatchback 9,Hatchback,NCA,48.9,327,33472,39877,4.7,South Korea
+2023,Kia,Kia Sedan 5,Sedan,NMC,87.1,523,49915,64787,3.7,South Korea
+2023,Kia,Kia SUV 6,SUV,LFP,65.4,380,35806,42648,4.0,South Korea
+2023,Kia,Kia Bus 9,Bus,NCA,243.3,208,301762,23060,3.8,South Korea
+2023,Kia,Kia Two-Wheeler 3,Two-Wheeler,LFP,4.0,122,2361,34852,4.3,South Korea
+2023,BMW,BMW Sedan 6,Sedan,LFP,69.7,425,39278,116274,4.3,Germany
+2023,BMW,BMW SUV 2,SUV,LFP,97.7,468,66600,65758,4.1,Germany
+2023,BMW,BMW Bus 5,Bus,NCA,167.1,260,175815,13688,3.9,Germany
+2023,BMW,BMW Two-Wheeler 3,Two-Wheeler,LFP,3.2,124,1764,42012,4.1,Germany
+2023,NIO,NIO Hatchback 9,Hatchback,LFP,48.3,367,35364,7679,4.7,China
+2023,NIO,NIO Bus 7,Bus,Sodium-Ion,236.4,240,223828,25876,3.7,China
+2023,NIO,NIO Truck 7,Truck,NMC,203.4,384,174163,18580,4.2,China
+2023,NIO,NIO Two-Wheeler 3,Two-Wheeler,LFP,4.0,94,2687,133081,3.7,China
+2023,Ola Electric,Ola Electric Hatchback 3,Hatchback,LFP,59.0,294,29574,20635,4.3,India
+2023,Ola Electric,Ola Electric Sedan 8,Sedan,NMC,61.2,441,39615,84069,4.4,India
+2023,Ola Electric,Ola Electric SUV 6,SUV,NMC,109.3,453,51797,66850,3.9,India
+2023,Ola Electric,Ola Electric Bus 8,Bus,LFP,226.1,205,209480,7389,4.4,India
+2023,Ola Electric,Ola Electric Truck 9,Truck,LFP,189.1,392,214401,1952,4.8,India
+2023,Ola Electric,Ola Electric Two-Wheeler 1,Two-Wheeler,LFP,5.6,127,4109,219602,4.9,India
+2024,Tesla,Tesla Sedan 9,Sedan,LFP,79.8,492,40344,71127,3.8,USA
+2024,Tesla,Tesla SUV 6,SUV,LFP,89.9,407,43429,140071,3.8,USA
+2024,Tesla,Tesla Bus 6,Bus,NMC,286.0,226,312204,32324,3.9,USA
+2024,Tesla,Tesla Truck 2,Truck,NMC,119.3,255,111061,32816,4.6,USA
+2024,Tesla,Tesla Two-Wheeler 9,Two-Wheeler,NCA,6.4,109,4382,169603,3.4,USA
+2024,BYD,BYD Hatchback 4,Hatchback,Solid-State,43.5,267,21669,11535,4.7,China
+2024,BYD,BYD SUV 6,SUV,NCA,104.2,632,69430,86963,3.6,China
+2024,BYD,BYD Truck 1,Truck,NMC,235.4,330,258649,10540,4.1,China
+2024,BYD,BYD Two-Wheeler 5,Two-Wheeler,NCA,4.7,151,3405,277352,3.7,China
+2024,Hyundai,Hyundai Hatchback 7,Hatchback,NMC,46.0,312,27440,21366,3.7,South Korea
+2024,Hyundai,Hyundai Sedan 6,Sedan,Sodium-Ion,56.8,451,27599,126921,4.7,South Korea
+2024,Hyundai,Hyundai SUV 3,SUV,NCA,73.6,559,35483,195027,4.6,South Korea
+2024,Hyundai,Hyundai Bus 6,Bus,Sodium-Ion,212.2,225,270965,11178,3.4,South Korea
+2024,Hyundai,Hyundai Truck 3,Truck,NCA,197.5,255,243664,20628,4.6,South Korea
+2024,Hyundai,Hyundai Two-Wheeler 1,Two-Wheeler,NMC,5.7,116,4231,199106,4.5,South Korea
+2024,Volkswagen,Volkswagen Hatchback 1,Hatchback,LFP,42.2,266,28427,60676,3.5,Germany
+2024,Volkswagen,Volkswagen Sedan 4,Sedan,NMC,73.8,524,40734,3792,3.9,Germany
+2024,Volkswagen,Volkswagen SUV 6,SUV,LFP,93.4,412,59227,94742,4.9,Germany
+2024,Volkswagen,Volkswagen Bus 6,Bus,NMC,220.5,230,160766,25368,3.9,Germany
+2024,Volkswagen,Volkswagen Truck 6,Truck,NMC,215.7,277,197859,14714,4.4,Germany
+2024,Volkswagen,Volkswagen Two-Wheeler 3,Two-Wheeler,NMC,7.9,166,3729,233256,4.1,Germany
+2024,Tata Motors,Tata Motors Hatchback 5,Hatchback,LFP,40.0,301,31848,46401,3.8,India
+2024,Tata Motors,Tata Motors Sedan 6,Sedan,LFP,67.5,413,49259,76277,4.0,India
+2024,Tata Motors,Tata Motors SUV 8,SUV,Solid-State,77.0,458,56137,44018,3.5,India
+2024,Tata Motors,Tata Motors Bus 5,Bus,NMC,299.3,262,228916,17270,3.9,India
+2024,Tata Motors,Tata Motors Truck 1,Truck,NMC,203.5,365,250407,21933,4.1,India
+2024,Tata Motors,Tata Motors Two-Wheeler 7,Two-Wheeler,NCA,2.3,93,1680,222855,4.8,India
+2024,Nissan,Nissan Sedan 6,Sedan,NCA,56.2,409,43966,6549,3.6,Japan
+2024,Nissan,Nissan SUV 3,SUV,LFP,82.2,506,48441,96385,3.8,Japan
+2024,Nissan,Nissan Truck 5,Truck,NMC,158.0,345,176053,8985,4.3,Japan
+2024,Nissan,Nissan Two-Wheeler 2,Two-Wheeler,Solid-State,3.2,108,2447,115423,3.5,Japan
+2024,Kia,Kia Hatchback 2,Hatchback,NCA,43.0,313,23720,31019,3.6,South Korea
+2024,Kia,Kia Sedan 4,Sedan,NMC,61.1,368,31793,22343,4.6,South Korea
+2024,Kia,Kia Bus 2,Bus,LFP,270.5,220,255073,22309,4.1,South Korea
+2024,Kia,Kia Truck 6,Truck,NMC,186.2,343,180984,21554,3.9,South Korea
+2024,Kia,Kia Two-Wheeler 3,Two-Wheeler,NCA,5.8,128,4459,19755,3.6,South Korea
+2024,BMW,BMW SUV 5,SUV,NMC,77.3,571,41565,139318,4.2,Germany
+2024,BMW,BMW Truck 3,Truck,NMC,175.4,266,187627,29020,3.9,Germany
+2024,BMW,BMW Two-Wheeler 5,Two-Wheeler,LFP,7.2,151,5173,105225,4.4,Germany
+2024,NIO,NIO Hatchback 8,Hatchback,NMC,42.2,267,30915,53292,4.1,China
+2024,NIO,NIO Sedan 6,Sedan,LFP,69.5,490,38879,107497,4.5,China
+2024,NIO,NIO SUV 9,SUV,Solid-State,66.5,380,35551,24202,4.1,China
+2024,NIO,NIO Two-Wheeler 3,Two-Wheeler,Sodium-Ion,4.5,140,3496,264719,3.7,China
+2024,Ola Electric,Ola Electric Sedan 2,Sedan,NMC,85.8,602,53788,145667,3.7,India
+2024,Ola Electric,Ola Electric SUV 8,SUV,LFP,84.7,452,38357,26977,3.6,India
+2024,Ola Electric,Ola Electric Bus 1,Bus,LFP,210.5,266,174506,13521,3.5,India
+2024,Ola Electric,Ola Electric Truck 2,Truck,NCA,142.0,244,109928,17784,4.9,India
+2024,Ola Electric,Ola Electric Two-Wheeler 7,Two-Wheeler,LFP,2.9,107,1351,49259,3.9,India
+2025,Tesla,Tesla Hatchback 6,Hatchback,NMC,50.2,386,28187,49048,4.3,USA
+2025,Tesla,Tesla Sedan 8,Sedan,NMC,72.8,520,40399,140909,4.0,USA
+2025,Tesla,Tesla SUV 1,SUV,Solid-State,89.2,535,48430,157354,4.9,USA
+2025,Tesla,Tesla Bus 9,Bus,LFP,157.7,250,168274,28591,3.6,USA
+2025,Tesla,Tesla Truck 1,Truck,LFP,242.2,338,231184,14472,3.7,USA
+2025,Tesla,Tesla Two-Wheeler 1,Two-Wheeler,NMC,4.8,137,3031,230944,4.9,USA
+2025,BYD,BYD Hatchback 9,Hatchback,LFP,58.9,311,33809,91039,4.5,China
+2025,BYD,BYD Sedan 4,Sedan,NMC,76.4,429,42362,135104,4.9,China
+2025,BYD,BYD SUV 8,SUV,NMC,94.5,483,73407,163200,3.8,China
+2025,BYD,BYD Truck 3,Truck,LFP,247.0,314,217625,35962,3.9,China
+2025,BYD,BYD Two-Wheeler 9,Two-Wheeler,LFP,4.9,112,3169,82995,3.6,China
+2025,Hyundai,Hyundai Hatchback 4,Hatchback,LFP,36.3,310,17002,61915,4.5,South Korea
+2025,Hyundai,Hyundai SUV 7,SUV,LFP,87.5,545,66345,122589,4.4,South Korea
+2025,Hyundai,Hyundai Bus 2,Bus,LFP,192.8,269,163888,19554,4.7,South Korea
+2025,Hyundai,Hyundai Two-Wheeler 1,Two-Wheeler,NMC,7.0,172,4123,212824,4.8,South Korea
+2025,Volkswagen,Volkswagen Hatchback 2,Hatchback,Sodium-Ion,56.9,400,32277,41415,4.4,Germany
+2025,Volkswagen,Volkswagen Sedan 5,Sedan,Sodium-Ion,59.7,381,29219,31037,4.1,Germany
+2025,Volkswagen,Volkswagen SUV 4,SUV,LFP,96.8,443,72566,212784,4.6,Germany
+2025,Volkswagen,Volkswagen Bus 3,Bus,LFP,250.4,268,311513,824,4.0,Germany
+2025,Volkswagen,Volkswagen Truck 1,Truck,LFP,149.4,266,137650,11297,4.4,Germany
+2025,Volkswagen,Volkswagen Two-Wheeler 5,Two-Wheeler,LFP,6.1,146,4109,393886,4.0,Germany
+2025,Tata Motors,Tata Motors Sedan 6,Sedan,NMC,70.9,451,45534,103754,4.2,India
+2025,Tata Motors,Tata Motors SUV 2,SUV,LFP,72.4,486,45964,87492,4.8,India
+2025,Tata Motors,Tata Motors Truck 3,Truck,Sodium-Ion,130.3,265,131784,5920,3.7,India
+2025,Tata Motors,Tata Motors Two-Wheeler 8,Two-Wheeler,LFP,5.1,105,3037,228043,4.2,India
+2025,Nissan,Nissan Hatchback 1,Hatchback,LFP,35.5,322,23161,6931,3.9,Japan
+2025,Nissan,Nissan SUV 1,SUV,Sodium-Ion,63.5,415,32575,38977,4.4,Japan
+2025,Nissan,Nissan Bus 8,Bus,Solid-State,206.2,301,253170,16065,4.4,Japan
+2025,Nissan,Nissan Truck 3,Truck,NMC,198.0,404,186142,5770,4.9,Japan
+2025,Nissan,Nissan Two-Wheeler 9,Two-Wheeler,NCA,7.9,139,4604,82756,4.1,Japan
+2025,Kia,Kia SUV 1,SUV,NCA,61.6,401,29171,134161,4.1,South Korea
+2025,Kia,Kia Bus 8,Bus,Sodium-Ion,186.7,217,157140,22532,3.5,South Korea
+2025,Kia,Kia Truck 6,Truck,LFP,222.4,351,256343,39442,3.8,South Korea
+2025,Kia,Kia Two-Wheeler 5,Two-Wheeler,Solid-State,5.1,100,3988,288047,4.8,South Korea
+2025,BMW,BMW Hatchback 7,Hatchback,NMC,47.4,358,26618,64160,3.6,Germany
+2025,BMW,BMW Sedan 5,Sedan,NCA,71.6,551,35837,96150,3.5,Germany
+2025,BMW,BMW SUV 5,SUV,NMC,86.5,435,58504,178461,4.7,Germany
+2025,BMW,BMW Truck 1,Truck,LFP,140.3,347,115800,35786,4.5,Germany
+2025,BMW,BMW Two-Wheeler 1,Two-Wheeler,NMC,7.2,121,3719,233083,4.5,Germany
+2025,NIO,NIO Hatchback 7,Hatchback,Sodium-Ion,52.4,389,33705,103445,4.0,China
+2025,NIO,NIO Sedan 8,Sedan,LFP,64.2,448,46929,125427,4.5,China
+2025,NIO,NIO SUV 4,SUV,LFP,75.6,542,34449,87942,4.3,China
+2025,NIO,NIO Bus 4,Bus,LFP,179.4,245,194933,20299,3.8,China
+2025,NIO,NIO Truck 3,Truck,Solid-State,196.3,362,180050,6766,4.2,China
+2025,Ola Electric,Ola Electric Hatchback 2,Hatchback,Solid-State,58.9,407,40280,93279,4.0,India
+2025,Ola Electric,Ola Electric Sedan 9,Sedan,LFP,79.8,476,37598,81899,4.8,India
+2025,Ola Electric,Ola Electric SUV 7,SUV,NMC,60.8,350,38626,60695,4.9,India
+2025,Ola Electric,Ola Electric Truck 2,Truck,NMC,220.9,405,223917,13399,4.3,India
+2025,Ola Electric,Ola Electric Two-Wheeler 7,Two-Wheeler,LFP,6.8,135,3639,187411,3.8,India
